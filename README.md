@@ -39,7 +39,7 @@ rm -fr .git/modules/meghna
 
 ```shell
 cp -p themes/meghna/exampleSite/config.toml .
-cp -pr themes/meghna/exampleSite/{content,data} .
+cp -pr themes/meghna/exampleSite/{content,static} .
 ```
 
 ## Link
